@@ -18,6 +18,6 @@ https://www.dropbox.com/scl/fo/7w3o1r2ll1vc4jfpdmolj/h?dl=0&e=1&rlkey=u1kico8nr9
 Обязательно при отправке тестового нужно указать сколько времени потратили на выполнение задания.
 Желаем удачи!
 
-# [Пример работы приложения](https://asciinema.org/a/LTjvzUKUz0x0MZN22QENngEEw)
+###  [DEMO](https://asciinema.org/a/ADaoxdtAXD4ussnRxDLawf7cw)
 
 _[Инструкция для локального развертывания](INSTALLATION.md)_
