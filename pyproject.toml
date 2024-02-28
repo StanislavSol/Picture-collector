@@ -1,0 +1,20 @@
+[tool.poetry]
+name = "picture-collector"
+version = "0.1.0"
+description = ""
+authors = ["Your Name <you@example.com>"]
+readme = "README.md"
+packages = [{include = "picture_collector"}]
+
+[tool.poetry.dependencies]
+python = "^3.10"
+pillow = "^10.2.0"
+
+
+[tool.poetry.scripts]
+collector = "app.scripts.collector:main"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
